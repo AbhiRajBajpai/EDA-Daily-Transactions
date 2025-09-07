@@ -21,13 +21,14 @@ This project performs a detailed Exploratory Data Analysis (EDA) on a dataset of
 Here are some of the key insights discovered from the analysis:
 
 1.  **Spending by Category:** The analysis breaks down which categories account for the most spending. Food, Transportation, and Household items are the top expense categories.
-    *(Insert a screenshot of your 'Top 10 Categories by Total Expense Amount' chart here)*
+    <img width="1092" height="707" alt="a" src="https://github.com/user-attachments/assets/6e38c9c5-2170-470e-a6a8-19a58bc1391f" />
+
 
 2.  **Income vs. Expense Over Time:** A time-series analysis shows the flow of income and expenses on a monthly basis, highlighting months with high spending or savings.
-    *(Insert a screenshot of your 'Monthly Income vs. Expense' chart here)*
+    <img width="1268" height="707" alt="b" src="https://github.com/user-attachments/assets/eb9fcea3-6702-4cf7-a625-688263ea19e1" />
 
 3.  **Weekly Spending Habits:** The data reveals spending patterns across different days of the week, showing a potential increase in spending on weekends.
-    *(Insert a screenshot of your 'Spending by Day of the Week' chart here)*
+    <img width="1035" height="630" alt="c" src="https://github.com/user-attachments/assets/19c6fdac-3c6b-462d-b8ab-f3b301cc9645" />
 
 ---
 
